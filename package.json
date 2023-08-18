@@ -1,7 +1,8 @@
 {
-  "homepage": "http://Aadityaa203.github.io/new-facts",
-  "name": "new-facts",
-  "version": "1.0.0",
+  "homepage": "http://aadityaa203.github.io/three-facts",
+  "name": "fun-facts",
+  "version": "0.1.0",
+  "private": true,
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
