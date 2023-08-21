@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/facts/static/css/main.321d4c16.css",
+    "main.css": "/facts/static/css/main.09ed9e03.css",
     "main.js": "/facts/static/js/main.13372005.js",
+    "static/media/nepal-flag.jpg": "/facts/static/media/nepal-flag.cf473d1e9ee278a3d56b.jpg",
     "index.html": "/facts/index.html",
-    "main.321d4c16.css.map": "/facts/static/css/main.321d4c16.css.map",
+    "main.09ed9e03.css.map": "/facts/static/css/main.09ed9e03.css.map",
     "main.13372005.js.map": "/facts/static/js/main.13372005.js.map"
   },
   "entrypoints": [
-    "static/css/main.321d4c16.css",
+    "static/css/main.09ed9e03.css",
     "static/js/main.13372005.js"
   ]
 }
